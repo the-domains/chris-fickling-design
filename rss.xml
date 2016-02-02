@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Chris Fickling Design]]></title>
         <description><![CDATA[Chris Fickling Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-fickling-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 10:41:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 10:43:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-fickling-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinede90683c7-67ff-4735-b9d5-7aa982bf4860/index.html</link>
+            <description><![CDATA[<p>Website design in Nottingham, UK.</p>]]></description>
+            <link>https://thegrid.ai/chris-fickling-design/e90683c7-67ff-4735-b9d5-7aa982bf4860/index.html</link>
             <guid isPermaLink="false">e90683c7-67ff-4735-b9d5-7aa982bf4860</guid>
-            <pubDate>Tue, 02 Feb 2016 10:40:49 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 10:43:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
