@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chris Fickling Design]]></title>
+        <description><![CDATA[Chris Fickling Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 10:41:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefinede90683c7-67ff-4735-b9d5-7aa982bf4860/index.html</link>
+            <guid isPermaLink="false">e90683c7-67ff-4735-b9d5-7aa982bf4860</guid>
+            <pubDate>Tue, 02 Feb 2016 10:40:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
