@@ -1,0 +1,28 @@
+name: Chris Fickling Design
+favicon: null
+layout_spectrum: 0.8557335771620274
+typography_spectrum: 0.7381393490359187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#093542'
+    - '#ede1cb'
+    - '#455e65'
+    - '#bfc2b5'
+    - '#92a099'
+  brandStrength: 0.06363663310185075
+  lightness: 0.9012834276072681
+  saturation: 0.027416631346568465
+  rhythmicContrast: 0.018939858069643378
+purpose: []
